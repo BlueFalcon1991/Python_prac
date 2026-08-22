@@ -36,3 +36,5 @@ plt.grid(True, alpha=0.3)
 plt.show()
 
 
+
+# %%
